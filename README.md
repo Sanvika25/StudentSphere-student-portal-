@@ -1,5 +1,5 @@
 # StudentSphere-student-portal-
-# Simple-student-portal
+# Student-portal
 This is a student portal web application where students can log in to view their profiles, grades, and attendance records. The portal is built using PHP and MySQL, and it is configured to work with MAMP.
 
 ## Features
